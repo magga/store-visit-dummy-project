@@ -1,0 +1,9 @@
+{
+    "extends": "rallycoding",
+    "rules": {
+        "no-underscore-dangle": "off",
+        "arrow-body-style": "off",
+        "array-callback-return": "off",
+        "max-len": "off"
+    }
+}
